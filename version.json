@@ -1,1 +1,6 @@
-{"version":"1.0","note":"批量重命名工具首发","date":"2026-10-28","download_url":"https://github.com/zcxkij/creo-tools/releases"}
+{
+  "version": "1.11.0",
+  "note": "新增更新提示离线模拟测试按钮；保留远程版本检查、说明展示与 GitHub 安装包入口。",
+  "date": "2026-10-29",
+  "download_url": "https://github.com/zcxkij/creo-tools/releases/download/v1.11.0/Creo._v1.11_20261029.zip"
+}
